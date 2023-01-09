@@ -6,7 +6,7 @@ This repository contains the files to build your very own AI image generation we
 
 
 
-![Screenshot 2022-12-15 at 11 34 39 AM]()
+![output]("https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model/blob/main/output.PNG")
 
 
 
@@ -25,7 +25,7 @@ The model is saved as model_tree.pkl which I have also uploaded in thie repo. Ru
 
 
 
-## Steps 
+## Steps to create the result
 
 1: Run the model_building.py to create the model_tree.pkl.
 
