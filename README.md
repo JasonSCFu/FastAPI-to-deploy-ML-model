@@ -6,7 +6,7 @@ This repository contains the files to build your very own AI image generation we
 
 
 
-![alt text](https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model/blob/main/output.PNG)
+![alt text](https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model/blob/main/UI_image.PNG)
 
 
 
